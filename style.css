@@ -1,0 +1,43 @@
+.container{
+margin-bottom: 50px;
+}
+
+/**** Carousel Extra CSS ****/
+.carousel-indicators li{
+   background-color:gray;
+}
+
+/**** Card Extra CSS ****/
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 12px lightgray;
+    border-radius:1.1rem;
+    padding:1.9rem;
+}
+
+/**** Catagoties section Extra CSS ****/
+#perfume-cat{
+margin-bottom:2rem;
+}
+
+/**** Footer section CSS ****/
+.footer-block{
+    background-color:black;
+    
+}
+.footer-block input{
+    font-size: 16px;
+    border-radius: 2px;
+    border: none;
+    padding: 5px;
+}
+.submit-btn:hover{
+    background-color: tomato;
+}
+.text-footer{
+    color: yellow;
+}
